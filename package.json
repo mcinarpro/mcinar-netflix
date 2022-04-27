@@ -11,6 +11,7 @@
     "@heroicons/react": "^1.0.6",
     "@mui/material": "^5.6.3",
     "firebase": "^9.6.11",
+    "lodash": "^4.17.21",
     "next": "latest",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -20,9 +21,11 @@
     "recoil": "^0.7.2"
   },
   "devDependencies": {
+    "@types/lodash": "^4.14.182",
     "@types/node": "17.0.4",
     "@types/react": "17.0.38",
     "autoprefixer": "^10.4.0",
+    "intercept-stdout": "^0.1.2",
     "postcss": "^8.4.5",
     "prettier": "^2.5.1",
     "prettier-plugin-tailwindcss": "^0.1.1",
